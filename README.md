@@ -33,13 +33,13 @@ All experiments run on CPU; no GPU is required.
 
 ### Steps:
 
-1. Run `Experiment_OPT.ipynb`  
-   - Import `dataset_results_functions.zip`  
+1. Run `OPTvsLDPmechanisms/Experiment_OPT.ipynb`  
+   - Import `OPTvsLDPmechanisms/dataset_results_functions.zip`  
    - Select dataset and protected attribute
 
-2. Run `Experiment_LDPmechanisms.ipynb` for RR, GRR, SS  
+2. Run `OPTvsLDPmechanisms/Experiment_LDPmechanisms.ipynb` for RR, GRR, SS  
 
-3. Use `Plot_LDPmechanismsVsOPT.ipynb` to generate Figures 1–5
+3. Use `OPTvsLDPmechanisms/Plot_LDPmechanismsVsOPT.ipynb` to generate Figures 1–5
 
 
 ### Dataset–Attribute Mapping:
