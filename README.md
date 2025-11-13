@@ -18,5 +18,15 @@ Create a minimal Python environment:
 pip install numpy scipy pandas scikit-learn matplotlib seaborn
 pip install jupyter
 ```
----
+
+For FairProjection and FairBalance:
+```bash
+pip install cvxpy
+pip install aif360
+```
+
+All experiments run on CPU; no GPU is required.
+
+
+
 
