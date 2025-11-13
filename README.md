@@ -101,8 +101,9 @@ Plot_FairProjection.ipynb
 ```bash
 python3 FairBalance/src/main.py
 ```
+Results appear in `FairBalance/results/test/`.
 
-Results appear in FairBalance/results/test/.
+
 ---
 ## 📚 Citation
 
