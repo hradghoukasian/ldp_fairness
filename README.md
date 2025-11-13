@@ -17,5 +17,6 @@ Create a minimal Python environment:
 ```bash
 pip install numpy scipy pandas scikit-learn matplotlib seaborn
 pip install jupyter
+```
 ---
 
