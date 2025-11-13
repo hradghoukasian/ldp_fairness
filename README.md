@@ -9,7 +9,7 @@ This repository contains the full implementation and experimental pipeline for o
 
 
 
-
+---
 ## 🔧 Installation
 
 Create a minimal Python environment:
@@ -27,7 +27,7 @@ pip install aif360
 
 All experiments run on CPU; no GPU is required.
 
-
+---
 ## 🔍 1. OPT vs Existing LDP Mechanisms  
 *(Figures 1–5)*
 
@@ -41,7 +41,6 @@ All experiments run on CPU; no GPU is required.
 
 3. Use `Plot_LDPmechanismsVsOPT.ipynb` to generate Figures 1–5
 
----
 
 ### Dataset–Attribute Mapping:
 
@@ -53,7 +52,7 @@ All experiments run on CPU; no GPU is required.
 | 4   | Adult   | family income       |
 | 5   | Adult   | race-gender         |
 
-
+---
 ## 🔍 2. OPT vs RR under Mozannar et al. Framework  
 *(Figure 6)*
 
@@ -64,6 +63,7 @@ FairLearning/Experiment_FairLearning.ipynb
 ```
 Produces accuracy–equalized odds plots.
 
+---
 ## 🔍 3. OPT vs FairProjection  
 *(Table 1)*
 
@@ -92,7 +92,7 @@ Then, reproduce Table 1 using:
 Plot_FairProjection.ipynb
 ```
 
-
+---
 ## 🔍 4. OPT vs FairBalance  
 *(Table 2)*
 
@@ -103,7 +103,7 @@ python3 FairBalance/src/main.py
 ```
 
 Results appear in FairBalance/results/test/.
-
+---
 ## 📚 Citation
 
 ```bibtex
@@ -114,7 +114,8 @@ Results appear in FairBalance/results/test/.
   note         = {Manuscript in preparation},
   howpublished = {\url{https://github.com/hradghoukasian/ldp_fairness}}
 }
-
+```
+---
 ## 📬 Contact
 
 For questions, feel free to reach out:
