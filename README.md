@@ -49,7 +49,7 @@ All experiments run on CPU; no GPU is required.
 | 1   | Adult   | gender              |
 | 2   | LSAC    | gender              |
 | 3   | Adult   | race                |
-| 4   | Adult   | family income       |
+| 4   | LSAC  | family income       |
 | 5   | Adult   | race-gender         |
 
 ---
