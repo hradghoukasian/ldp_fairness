@@ -28,5 +28,29 @@ pip install aif360
 All experiments run on CPU; no GPU is required.
 
 
+## 🔍 1. OPT vs Existing LDP Mechanisms  
+*(Figures 1–5)*
+
+### Steps:
+
+1. Run `Experiment_OPT.ipynb`  
+   - Import `dataset_results_functions.zip`  
+   - Select dataset and protected attribute
+
+2. Run `Experiment_LDPmechanisms.ipynb` for RR, GRR, SS  
+
+3. Use `Plot_LDPmechanismsVsOPT.ipynb` to generate Figures 1–5
+
+---
+
+### Dataset–Attribute Mapping:
+
+| Fig | Dataset | Protected Attribute |
+|-----|---------|---------------------|
+| 1   | Adult   | gender              |
+| 2   | LSAC    | gender              |
+| 3   | Adult   | race                |
+| 4   | Adult   | family income       |
+| 5   | Adult   | race-gender         |
 
 
