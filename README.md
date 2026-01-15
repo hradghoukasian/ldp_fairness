@@ -104,8 +104,14 @@ Results appear in `FairBalance/results/test/`.
 ---
 ## 📚 Citation
 
-To be updated.
-
+```bibtex
+@article{ghoukasian2025optimal,
+  title   = {Optimal Fairness under Local Differential Privacy},
+  author  = {Ghoukasian, Hrad and Asoodeh, Shahab},
+  journal = {arXiv preprint arXiv:2511.16377},
+  year    = {2025}
+}
+```
 ---
 ## 📬 Contact
 
