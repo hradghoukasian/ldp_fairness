@@ -1,6 +1,6 @@
 # Optimal Fairness under Local Differential Privacy
 **Authors:** Hrad Ghoukasian, Shahab Asoodeh  
-**Status:** Manuscript in preparation
+**Status:** Accepted to the 2026 IEEE International Symposium on Information Theory (ISIT 2026) 
 
 This repository contains the full implementation and experimental pipeline for our forthcoming paper **Optimal Fairness under Local Differential Privacy**. The project introduces **OPT**, the optimal locally differentially private mechanism designed to minimize data unfairness while satisfying non-trivial utility. We compare OPT against existing LDP mechanisms and state-of-the-art fairness interventions across multiple datasets and fairness metrics.
 
